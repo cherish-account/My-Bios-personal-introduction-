@@ -3,6 +3,7 @@
  ## (www.tiktok.com/@tech_baddie0)
  & and this my gmail account 
  ## (nnabuezeuchecharity@gmail.com)
+ ![my photo](https://raw.githubusercontent.com//TECH_baddie/edit/main//myphoto,png)
  
 ## 🚀 About Me
 
