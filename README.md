@@ -75,11 +75,12 @@ I'm a [  cybersecurity expert] passionate about [ making our digital world sefe 
 - [🔗 Live Demo](https://your-demo-link.com)
 - [📁 Repository](https://github.com/[YourUsername]/[Project1])
 
-### [Project 2 Name]
-📝 Brief description of your project
-- **Tech:** [Technologies used]
-- [🔗 Live Demo](https://your-demo-link.com)
-- [📁 Repository](https://github.com/[YourUsername]/[Project2])
+### Projects
+-<a href="https://github.com/cherish-account/Detection-lap/tree/main">Detection Lap</a>
+
+-Soc Automation Project
+
+-Test Project
 
 ## 📝 Latest Blog Posts
 <!-- If you have a blog, you can add recent posts here -->
@@ -107,6 +108,8 @@ I'm a [  cybersecurity expert] passionate about [ making our digital world sefe 
 ## 📊 Weekly Development Breakdown
 <!-- This uses the github-readme-activity-graph, you'll need to set it up -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=[YourUsername]&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 ---
 
