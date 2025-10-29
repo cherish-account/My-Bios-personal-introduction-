@@ -5,15 +5,18 @@
  ## (nnabuezeuchecharity@gmail.com)
 
 ## my photos
-!(https://github.com/user-attachments/assets/a4f38e19-a5a8-4c7c-b027-39b349462097)
+(https://github.com/user-attachments/assets/a4f38e19-a5a8-4c7c-b027-39b349462097)
+(https://github.com/user-attachments/assets/e3475605-e5ad-4b0d-9569-9ee9fec6d450)
+(https://github.com/user-attachments/assets/396499db-b910-4eb9-92c9-9b0ab3fb1691)
 
-!(https://github.com/user-attachments/assets/e3475605-e5ad-4b0d-9569-9ee9fec6d450)
+
+
 
 ## 🚀 About Me
 
 I'm a [  cybersecurity expert] passionate about [ making our digital world sefe and secured]. I love building things that make a difference and constantly learning new technologies.
 
-## IM CURRENTELY WORKING ON:![WhatsApp Image 2025-10-29 at 10 21 43 AM](https://github.com/user-attachments/assets/be3453d6-1adb-4b91-a3c6-206297feaaa8)
+## IM CURRENTELY WORKING ON:
 
 - Network scanning & Mapping (Nmap Project),
 - Wireshack Traffic Analysis Lap
