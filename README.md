@@ -9,14 +9,14 @@
 
 !(https://github.com/user-attachments/assets/e3475605-e5ad-4b0d-9569-9ee9fec6d450)
 
+!(https://github.com/user-attachments/assets/bc592692-7fd6-4e4b-8100-0fe4bbb7be3a)
 
-
- 
 ## 🚀 About Me
 
 I'm a [  cybersecurity expert] passionate about [ making our digital world sefe and secured]. I love building things that make a difference and constantly learning new technologies.
 
-## IM CURRENTELY WORKING ON:
+## IM CURRENTELY WORKING ON:![WhatsApp Image 2025-10-29 at 10 21 43 AM](https://github.com/user-attachments/assets/be3453d6-1adb-4b91-a3c6-206297feaaa8)
+
 - Network scanning & Mapping (Nmap Project),
 - Wireshack Traffic Analysis Lap
 - Firewall Setup using pfSense
