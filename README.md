@@ -3,8 +3,13 @@
  ## (www.tiktok.com/@tech_baddie0)
  & and this my gmail account 
  ## (nnabuezeuchecharity@gmail.com)
- ![my photo](https://raw.githubusercontent.com//TECH_baddie/edit/main/:![WhatsApp Image 2025-10-29 at 9 45 22 AM](https://github.com/user-attachments/assets/45b5803c-6782-4d7b-99c4-2e7e48492d5c)
-)
+
+## my photos
+!(https://github.com/user-attachments/assets/a4f38e19-a5a8-4c7c-b027-39b349462097)
+!(https://github.com/user-attachments/assets/e3475605-e5ad-4b0d-9569-9ee9fec6d450)
+
+
+
  
 ## 🚀 About Me
 
