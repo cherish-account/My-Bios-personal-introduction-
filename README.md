@@ -1,20 +1,25 @@
-# Hi there,  👋IM tech_baddie
- You can go through my tiktok handle with this link (www.tiktok.com/@tech_baddie0)
- & and this my gmail account (nnabuezeuchecharity@gmail.com)
+## Nnabueze uche charity
+ You can go through my tiktok handle with this link
+ ## (www.tiktok.com/@tech_baddie0)
+ & and this my gmail account 
+ ## (nnabuezeuchecharity@gmail.com)
  
 ## 🚀 About Me
 
 I'm a [  cybersecurity expert] passionate about [ making our digital world sefe and secured]. I love building things that make a difference and constantly learning new technologies.
-- 🔭IM CURRENTELY WORKING ON:
+
+## IM CURRENTELY WORKING ON:
 - Network scanning & Mapping (Nmap Project),
 - Wireshack Traffic Analysis Lap
 - Firewall Setup using pfSense
 - Fail2Ban SSH brute-Force Defense
 - VLAN Segmentatin Lap Uing Cisco Packet Tracer
 - 
-- 🌱 I'm currently learning: [Ethical hackig/pn testing, Network security]
-- 
-- 👯 I'm looking to collaborate on:
+  ## I'm currently learning:
+   Ethical hacking/pen testing,
+    Network security
+  
+ ## 👯 I'm looking to collaborate on:
 - 1 Network Perimeter & INfrastructure security
 - 2 Networke Monitoring/Dention (IDS/IPS/SIEM)
 - 3 Wireless & RF security
@@ -24,21 +29,24 @@ I'm a [  cybersecurity expert] passionate about [ making our digital world sefe 
 - 7 Automation, Tooling & DevSecOps
 - 
 - 
-- 🤔 I'm looking for help with:
+  ## 🤔 I'm looking for help with:
 - Need a place to do my intenship on my sepcialize field (cybersecurity)
-- 
-- 💬 Ask me about:
-- Tools to use for Network security & Ethical hacking/Pen testing
-- 
-- 📫 How to reach me:
-- with my gmail (nnabuezeuchecharity46@gmail.com)
-- 
-- 😄 Pronouns:
-- she
-- 
-- ⚡ Fun fact: [i love slying in tec by finding out system weakness ]
 
-## 🛠 Tech Stack cyberscurity expert
+## 💬 Ask me about:
+- Tools to use for Network security & Ethical hacking/Pen testing
+ 
+## 📫 How to reach me:
+- with my gmail (nnabuezeuchecharity46@gmail.com)
+  
+  ## 😄 Pronouns:
+- she
+ 
+  ## ⚡ Fun fact:
+   i love slying in tec by finding out system weakness 
+
+## 🛠 Tech Stack
+cyberscurity expert
+
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -69,13 +77,14 @@ I'm a [  cybersecurity expert] passionate about [ making our digital world sefe 
 
 ## 🔥 Recent Projects
 
-### [Project 1 Name]
-📝 Brief description of your project
-- **Tech:** [Technologies used]
-- [🔗 Live Demo](https://your-demo-link.com)
+## Project Name
+Detecton Lap 
+📝 
+- **Tech:** [VMware workstation]
+- [🔗 Live Demo]()-<a href="https://github.com/cherish-account/Detection-lap/tree/main">Detection Lap</a>
 - [📁 Repository](https://github.com/[YourUsername]/[Project1])
 
-### Projects
+## Projects
 -<a href="https://github.com/cherish-account/Detection-lap/tree/main">Detection Lap</a>
 
 -Soc Automation Project
