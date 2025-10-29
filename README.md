@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-I'm a [  cybersecurity expert] passionate about [ making our digital world sefe and secured]. I love building things that make a difference and constantly learning new technologies.
+I'm a  cybersecurity expert passionate about  making our digital world sefe and secured. I love building things that make a difference and constantly learning new technologies.
 
 ## IM CURRENTELY WORKING ON:
 
