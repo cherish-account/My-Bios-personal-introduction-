@@ -1,4 +1,4 @@
-## Nnabueze uche charity
+## Hi my is  Nnabueze uche charity
  You can go through my tiktok handle with this link
  ## (www.tiktok.com/@tech_baddie0)
  & and this my gmail account 
